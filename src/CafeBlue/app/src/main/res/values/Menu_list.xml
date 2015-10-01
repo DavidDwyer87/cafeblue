@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catigo>
+    <item>
+        <id>1</id>
+        <title>Menu</title>
+        <thumbnail_url>@mipmap/food</thumbnail_url>
+    </item>
+    <item>
+        <id>2</id>
+        <title>Beverage</title>
+        <thumbnail_url></thumbnail_url>
+    </item>
+    <item>
+        <id>3</id>
+        <title>Locations</title>
+        <thumbnail_url></thumbnail_url>
+    </item>
+    <item>
+        <id>4</id>
+        <title>Your Feedback</title>
+        <thumbnail_url></thumbnail_url>
+    </item>
+    <item>
+        <id>5</id>
+        <title>About Cafe Blue</title>
+        <thumbnail_url></thumbnail_url>
+    </item>
+</catigo>
