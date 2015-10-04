@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CafeMenu">
+        <item name="meal">Meal</item>
+        <item name="hot_beverage">Hot Beverage</item>
+        <item name="cold_beverage">Cold Beverage</item>
+        <item name="Rewards">Rewards</item>
+        <item name="Location">Locations</item>
+        <item name="about">About Cafe Blue</item>
+        <item name="fb">Facebook</item>
+    </string-array>
+</resources>
